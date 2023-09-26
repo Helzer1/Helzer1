@@ -1,7 +1,11 @@
-### Hi there 👋
+# <div align="center"> Hi, there I'm Michael Helzer</div>
 
-<!--
-**Helzer1/Helzer1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+* I am a junior at the University of Wisconsin Green Bay
+* I am studying Computer Science with an emphasis in Software Engineering
+
+
+## Projects
 
 Here are some ideas to get you started:
 
