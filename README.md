@@ -1,8 +1,8 @@
 # <div align="center"> Hi, there I'm Michael Helzer</div>
 
 ## About Me
-* I am a junior at the University of Wisconsin Green Bay
-* I am studying Computer Science with an emphasis in Software Engineering
+* I am a Recent graduate from the University of Wisconsin Green Bay
+* Major: Computer Science with an emphasis in Software Engineering
 
 
 ## Projects
