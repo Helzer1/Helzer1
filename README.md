@@ -1,7 +1,7 @@
 # <div align="center"> Hi, there I'm Michael Helzer</div>
 
 ## About Me
-* I am a Recent graduate from the University of Wisconsin Green Bay
+* I am a recent graduate from the University of Wisconsin Green Bay
 * Major: Computer Science with an emphasis in Software Engineering
 
 
